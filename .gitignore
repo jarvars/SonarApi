@@ -21,11 +21,8 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
-/packages
-/SonarApi/bin
-/SonarApi/obj/
-SonarApi.Tests/bin
-SonarApi.Tests/obj
-/.vs
+packages/
+bin/
+obj/
+.vs/
 *.user
-/obj
